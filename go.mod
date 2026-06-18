@@ -6,7 +6,7 @@ toolchain go1.26.1
 
 require (
 	github.com/charmbracelet/log v1.0.0
-	github.com/coder/websocket v1.8.14
+	github.com/coder/websocket v1.8.15
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/muesli/termenv v0.16.0
 	gopkg.in/yaml.v3 v3.0.1
